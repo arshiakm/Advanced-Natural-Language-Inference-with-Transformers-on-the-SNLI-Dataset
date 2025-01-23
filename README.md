@@ -44,5 +44,5 @@ DeBERTa's advanced architecture, incorporating disentangled attention mechanisms
 ## Getting Started
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/advanced-nli-transformers.git
+   git clone https://github.com/arshiakm/advanced-nli-transformers.git
    cd advanced-nli-transformers
