@@ -41,7 +41,7 @@ Preprocessing steps ensure tokenization, balanced label distribution, and effici
 
 DeBERTa's advanced architecture, incorporating disentangled attention mechanisms and enhanced embeddings, enabled it to capture complex linguistic relationships effectively.
 
-## Getting Started
+
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/arshiakm/advanced-nli-transformers.git
